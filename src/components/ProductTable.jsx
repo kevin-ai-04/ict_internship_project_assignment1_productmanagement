@@ -22,7 +22,7 @@ const ProductTable = () => {
             <TableCell align="right">Price</TableCell>
             <TableCell align="left">Description</TableCell>
             <TableCell align="left">Category</TableCell>
-            <TableCell align="left">Image</TableCell>
+            <TableCell align="center">Image</TableCell>
             <TableCell align="left">Rating</TableCell>
             <TableCell align="left">count</TableCell>
           
