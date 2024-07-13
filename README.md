@@ -1,4 +1,4 @@
-# Product Application Using React - Project Assignment | Mar Baselios
+# Product Application Using React - Project Assignment
 
 Objective: Develop a Product Management application using React that includes a Dashboard to display product information and a form to add new products.
 
