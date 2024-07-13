@@ -1,0 +1,2 @@
+# ict_internship_project_assignment1_productmanagement
+ 
